@@ -1,7 +1,8 @@
 import axios from 'axios'
 
-// const API = 'https://ecom-server-coxu.onrender.com'
-const API = "https://ecom-server-team-iyyh.onrender.com"
+const API = 'https://ecom-server-coxu.onrender.com'
+
+// const API = "https://ecom-server-team-iyyh.onrender.com"
 // const API = 'http://localhost:8080'
 
 
